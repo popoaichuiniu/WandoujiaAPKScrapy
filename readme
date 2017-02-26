@@ -1,0 +1,4 @@
+scrapy version 1.1.2
+In this diretory:
+run:
+scrapy crawl android
